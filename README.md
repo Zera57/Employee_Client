@@ -15,3 +15,4 @@
 * Изменять
 * Удалять
 
+![Employee_Client](https://github.com/Zera57/Employee_Client/raw/master/Illustrations/Employee_Client.png)
